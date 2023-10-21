@@ -5,19 +5,19 @@ each element of array A is an integer within the range [1, 1000000000]
 
  
 
-Example1:
-Input:
-A = [51, 71, 17, 42]
-Output: 93
-Explanation: There are two pairs of numbers whose digits add up to an equal sum: (51, 42) and (17, 71), The first pair sums up to 93
+Example1:<br>
+Input:<br>
+A = [51, 71, 17, 42]<br>
+Output: 93<br>
+Explanation: There are two pairs of numbers whose digits add up to an equal sum: (51, 42) and (17, 71), The first pair sums up to 93<br>
 
  
 
-Example2:
-Input:
-A = [42, 33, 60]
-Output: 102
-Explanation: The digits of all numbers in A add up the same sum, and choosing to add 42 and 60 gives the result 102
+Example2:<br>
+Input:<br>
+A = [42, 33, 60]<br>
+Output: 102<br>
+Explanation: The digits of all numbers in A add up the same sum, and choosing to add 42 and 60 gives the result 102<br>
 
 
 - ✅ Approach ->
