@@ -7,6 +7,7 @@ Note: Both strings s and t consist only of lowercase English letters.
 Example <br>
 S = "mononom" <br>
 t="mon" <br>
+Output = 2 <br>
 
 - ✅ Approach -> <br> 
   1. Make two Hashmaps and map both s and t with its frequency
