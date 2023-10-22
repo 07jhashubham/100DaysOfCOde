@@ -21,3 +21,4 @@ I believe that consistent effort and practice are key to mastering DSA and impro
 Feel free to connect with me on [Twitter](https://twitter.com/07jhashubham) for daily updates and discussions about coding and DSA.
 
 Let's code and learn together! Happy coding! 🚀
+![100DaysofCode](https://assets-global.website-files.com/6080d45a6168d45abde5cba9/60916878676ea48019f20f8c_supercharge-100-days-of-code.png)
